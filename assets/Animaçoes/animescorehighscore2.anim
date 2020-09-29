@@ -1,0 +1,45 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "animescorehighscore2",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.3333333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            324,
+            538
+          ]
+        },
+        {
+          "frame": 0.25,
+          "value": [
+            324,
+            257
+          ]
+        },
+        {
+          "frame": 0.2833333333333333,
+          "value": [
+            324,
+            295
+          ]
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": [
+            324,
+            263
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}
